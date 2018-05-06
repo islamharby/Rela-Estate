@@ -1,0 +1,72 @@
+.main{
+	    margin: 0px 73px;
+	    font-family: 'Cabin', sans-serif;
+	    
+}
+.image img{
+	width: 100%;
+}
+.up-input , .med-input{
+	    width: 100%;
+}
+.button-Search{
+	margin-left: auto;
+    margin-right: 51px;
+}
+.button-Search button{
+	width: 93px;
+    height: 45px;
+}
+.Nmber label{
+	padding-top: 0px;
+}
+
+.Bathroms label{
+	padding-top: 0px;
+}
+.Bedrooms label{
+	padding-top: 0px;
+}
+.check-box{
+	margin-top: 9px;
+}
+.input-body{
+	padding-bottom: 19px;
+}
+.card-body{
+	padding-top: 25px;
+}
+.icon{
+	width: 100%;
+    display: flex;
+    padding: 0px 22px;
+}
+.icon div{
+	width: 20%;
+}
+.card-bord{
+	margin-bottom: 20px;
+}
+.card{
+	box-shadow: -1px 5px 20px 10px #BAB8B8;
+    background-color: #DDEAED;
+}
+.card-body h4{
+	    color: #3c78ab;
+}
+.card-body img{
+    border: 3px solid #FFF;
+    border-radius: 4px;
+}
+.footr ul{
+    display: flex;
+    width: 100%;
+    margin-left: 62px;
+}
+.footr li{
+	width: 25%;
+ 	color: #3c78ab;
+}
+.footr-end{
+    text-align: center;
+    font-family: sans-serif;
